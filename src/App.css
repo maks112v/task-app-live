@@ -9,7 +9,7 @@ ul {
 li {
   font-size: 40px;
   border-bottom: 1px solid gray;
-  padding: 10px 5px;
+  padding: 10px 10px;
 }
 
 li:hover {
